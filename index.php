@@ -1,4 +1,4 @@
 <?php
 
 echo "Hello World";
-echo "<br> Hello from the UAT!"
+echo "<br> Hello from the UAT!";
